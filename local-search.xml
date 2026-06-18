@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>SJTU CS2501H Discrete Math Notes 3 (Naive Set Theory)</title>
+    <link href="/2026/06/18/CS2501H_3/"/>
+    <url>/2026/06/18/CS2501H_3/</url>
+    
+    <content type="html"><![CDATA[<!-- 嵌入 PDF 开始 --><iframe src="discrete_math_note3.pdf" width="120%" height="800px" style="border: none;"></iframe><!-- 嵌入 PDF 结束 -->]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Mathematics</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>SJTU 数学分析 （函数项级数）</title>
     <link href="/2026/05/31/my-new-article/"/>
     <url>/2026/05/31/my-new-article/</url>
@@ -118,9 +137,9 @@
     
     <tags>
       
-      <tag>CS170&amp;MIT6.046</tag>
-      
       <tag>Algorithms</tag>
+      
+      <tag>CS170&amp;MIT6.046</tag>
       
     </tags>
     
@@ -195,9 +214,9 @@
     
     <tags>
       
-      <tag>CS170&amp;MIT6.046</tag>
-      
       <tag>Algorithms</tag>
+      
+      <tag>CS170&amp;MIT6.046</tag>
       
     </tags>
     
